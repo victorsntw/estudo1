@@ -33,13 +33,13 @@ Programa em Python que realiza a validação do nome do usuário e, condicionalm
 ### Passos
 ```bash
 # Clone o repositório (se aplicável)
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/victorsntw/estudo1/blob/main/README.md)
 
 # Acesse a pasta
-cd seu-repositorio
+cd estudo1
 
 # Execute o programa
-python nome_do_arquivo.py
+python condicionais.py
 ```
 
 ## 🖥️ Uso
